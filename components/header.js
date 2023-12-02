@@ -17,7 +17,7 @@ const Header = () => {
   const { open } = useWeb3Modal()
 
   const onFrameButton2Click = useCallback(() => {
-    window.open("https://blockfronttech.vercel.app");
+    window.open("https://jeffspace.vercel.app");
   }, []);
 
   return (
