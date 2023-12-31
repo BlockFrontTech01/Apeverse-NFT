@@ -34,7 +34,7 @@ const ApeverseMenu = ({ onClose }) => {
   const { open } = useWeb3Modal()
 
   const onFrameButton2Click = useCallback(() => {
-    window.open("https://jeffspace.vercel.app");
+    window.open("https://t.me/jeff96655");
   }, []);
 
   return (
